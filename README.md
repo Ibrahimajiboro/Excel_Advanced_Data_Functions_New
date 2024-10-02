@@ -1,6 +1,3 @@
-Here’s the text updated to adhere to GitHub formatting standards, utilizing Markdown for proper structure and readability:
-
-```markdown
 # Advanced Excel Projects
 
 This repository contains a collection of advanced Excel functions used to solve various project tasks. The functions have been organized by project, providing a clear overview of their applications.
@@ -120,6 +117,4 @@ Contributions are welcome! If you have any advanced Excel functions or projects 
 
 ## License
 This repository is licensed under the MIT License.
-```
 
-This format uses proper headings, lists, and code blocks, making it easy to read and navigate on GitHub.
